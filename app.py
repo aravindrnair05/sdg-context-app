@@ -924,6 +924,7 @@ def prepare_sdg_texts(sdg_data):
             meta.append({"level": "target", "sdg_no": sdg["sdg_no"], "target_no": target["target_no"]})
 
         for indicator in sdg.get("indicators", []):
+            print(indicator)
             texts.append(f"SDG {sdg['sdg_no']} Indicator {indicator['indicator_no']} {indicator['description']}")
             meta.append({"level": "indicator", "sdg_no": sdg["sdg_no"], "indicator_no": indicator["indicator_no"]})
 
