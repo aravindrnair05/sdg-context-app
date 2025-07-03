@@ -167,7 +167,7 @@ sdg_data = [
             {"indicator_no": "3.1.55", "description": "Tobacco control"},
             {"indicator_no": "3.1.56", "description": "Treatment of substance abuse"},
             {"indicator_no": "3.1.57", "description": "Tuberculosis"},
-            {"indicator_no": "3.1.58", "description": "Universal health"},
+            {"indicator_no": "3.1.58", "description": "Universal health access"},
             {"indicator_no": "3.1.59", "description": "Universal health coverage"},
             {"indicator_no": "3.1.60", "description": "Vaccines"},
             {"indicator_no": "3.1.61", "description": "Vaccines in developing countries"},
@@ -925,6 +925,7 @@ def prepare_sdg_texts(sdg_data):
 
         for indicator in sdg.get("indicators", []):
             print(indicator)
+            print(indicator['description'])
             texts.append(f"SDG {sdg['sdg_no']} Indicator {indicator['indicator_no']} {indicator['description']}")
             meta.append({"level": "indicator", "sdg_no": sdg["sdg_no"], "indicator_no": indicator["indicator_no"]})
 
