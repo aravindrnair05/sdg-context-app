@@ -110,7 +110,8 @@ sdg_data = [
             {"target_no": "3.1", "description": "By 2030, reduce the global maternal mortality ratio to less than 70 per 100,000 live births."}
         ],
         "indicators": [
-            {"indicator_no": "3.1.1", "description": "Access to clean water and sanitation"},
+            {"indicator_no": "3.1.1",
+                "description": "Access to clean water and sanitation"},
             {"indicator_no": "3.1.2", "description": "Affordable medicines"},
             {"indicator_no": "3.1.3", "description": "AIDS"},
             {"indicator_no": "3.1.4", "description": "Air contamination"},
@@ -127,11 +128,13 @@ sdg_data = [
             {"indicator_no": "3.1.15", "description": "Dental"},
             {"indicator_no": "3.1.16", "description": "Disability and family support"},
             {"indicator_no": "3.1.17", "description": "Disability and inclusion"},
-            {"indicator_no": "3.1.18", "description": "Disability and politics of location"},
+            {"indicator_no": "3.1.18",
+                "description": "Disability and politics of location"},
             {"indicator_no": "3.1.19", "description": "Diseases"},
             {"indicator_no": "3.1.20", "description": "Family planning"},
             {"indicator_no": "3.1.21", "description": "Health"},
-            {"indicator_no": "3.1.22", "description": "Health in resource-constrained settings"},
+            {"indicator_no": "3.1.22",
+                "description": "Health in resource-constrained settings"},
             {"indicator_no": "3.1.23", "description": "Health worker density"},
             {"indicator_no": "3.1.24", "description": "Healthy"},
             {"indicator_no": "3.1.25", "description": "Healthy lives"},
@@ -160,19 +163,21 @@ sdg_data = [
             {"indicator_no": "3.1.48", "description": "Refugees and health services"},
             {"indicator_no": "3.1.49", "description": "Reproductive health"},
             {"indicator_no": "3.1.50", "description": "Road traffic accidents"},
-            {"indicator_no": "3.1.51", "description": "Sexual and reproductive health-care"},
+            {"indicator_no": "3.1.51",
+                "description": "Sexual and reproductive health-care"},
             {"indicator_no": "3.1.52", "description": "Sexual health"},
             {"indicator_no": "3.1.53", "description": "Soil contamination"},
             {"indicator_no": "3.1.54", "description": "Soil pollution"},
             {"indicator_no": "3.1.55", "description": "Tobacco control"},
             {"indicator_no": "3.1.56", "description": "Treatment of substance abuse"},
             {"indicator_no": "3.1.57", "description": "Tuberculosis"},
-            {"indicator_no": "3.1.58", "description": "Universal health access"},
+            {"indicator_no": "3.1.58", "description": "Universal health"},
             {"indicator_no": "3.1.59", "description": "Universal health coverage"},
             {"indicator_no": "3.1.60", "description": "Vaccines"},
             {"indicator_no": "3.1.61", "description": "Vaccines in developing countries"},
             {"indicator_no": "3.1.62", "description": "Violence"},
-            {"indicator_no": "3.1.63", "description": "Water, Sanitation and Hygiene for All"},
+            {"indicator_no": "3.1.63",
+                "description": "Water, Sanitation and Hygiene for All"},
             {"indicator_no": "3.1.64", "description": "Water-borne disease"},
             {"indicator_no": "3.1.65", "description": "Well-being"},
             {"indicator_no": "3.1.66", "description": "World Health Organisation"}
@@ -240,7 +245,6 @@ sdg_data = [
             {"indicator_no": "5.1.1", "description": "Basic living standards"},
             {"indicator_no": "5.1.2", "description": "Dignity"},
             {"indicator_no": "5.1.3", "description": "Disadvantaged"},
-            {"indicator_no": "5.ruits"},
             {"indicator_no": "5.1.5", "description": "Employment"},
             {"indicator_no": "5.1.6", "description": "Empower girls"},
             {"indicator_no": "5.1.7", "description": "Empowerment"},
@@ -338,7 +342,6 @@ sdg_data = [
             {"indicator_no": "6.1.48", "description": "Water disasters"},
             {"indicator_no": "6.1.49", "description": "Water ecosystems"},
             {"indicator_no": "6.1.50", "description": "Water efficiency"},
-            {"indicator_no": "6. Ascertain"},
             {"indicator_no": "6.1.51", "description": "Water harvesting"},
             {"indicator_no": "6.1.52", "description": "Water quality"},
             {"indicator_no": "6.1.53", "description": "Water resources management"},
@@ -585,7 +588,8 @@ sdg_data = [
             {"indicator_no": "12.1.25", "description": "Market distortions"},
             {"indicator_no": "12.1.26", "description": "Materialism"},
             {"indicator_no": "12.1.27", "description": "Materials goods"},
-            {"indicator_no": "12.1.28", "description": "Monitoring sustainable development"},
+            {"indicator_no": "12.1.28",
+                "description": "Monitoring sustainable development"},
             {"indicator_no": "12.1.29", "description": "Natural resources"},
             {"indicator_no": "12.1.30", "description": "Obsolescence"},
             {"indicator_no": "12.1.31", "description": "Overconsumption"},
@@ -699,7 +703,8 @@ sdg_data = [
             {"indicator_no": "14.1.14", "description": "Ecosystem management"},
             {"indicator_no": "14.1.15", "description": "Fish species"},
             {"indicator_no": "14.1.16", "description": "Fish stocks"},
-            {"indicator_no": "14.1.17", "description": "Fish stocks AND FISHERIES MANAGEMENT"},
+            {"indicator_no": "14.1.17",
+                "description": "Fish stocks AND FISHERIES MANAGEMENT"},
             {"indicator_no": "14.1.18", "description": "Fisheries"},
             {"indicator_no": "14.1.19", "description": "Fishers"},
             {"indicator_no": "14.1.20", "description": "Fishing"},
@@ -784,7 +789,8 @@ sdg_data = [
             {"indicator_no": "15.1.43", "description": "Soil"},
             {"indicator_no": "15.1.44", "description": "Soil degradation"},
             {"indicator_no": "15.1.45", "description": "Species"},
-            {"indicator_no": "15.1.46", "description": "Strategic plan for biodiversity"},
+            {"indicator_no": "15.1.46",
+                "description": "Strategic plan for biodiversity"},
             {"indicator_no": "15.1.47", "description": "Terrestrial ecosystems"},
             {"indicator_no": "15.1.48", "description": "Threatened species"},
             {"indicator_no": "15.1.49", "description": "Tree"},
@@ -863,7 +869,8 @@ sdg_data = [
             {"indicator_no": "16.1.61", "description": "Unstable societies"},
             {"indicator_no": "16.1.62", "description": "Victims of violence"},
             {"indicator_no": "16.1.63", "description": "Violence"},
-            {"indicator_no": "16.1.64", "description": "Violence against women and children"},
+            {"indicator_no": "16.1.64",
+                "description": "Violence against women and children"},
             {"indicator_no": "16.1.65", "description": "Violence rates"},
             {"indicator_no": "16.1.66", "description": "Weapon seizures"}
         ]
@@ -884,25 +891,31 @@ sdg_data = [
             {"indicator_no": "17.1.6", "description": "Disaggregated data"},
             {"indicator_no": "17.1.7", "description": "Doha Development Agenda"},
             {"indicator_no": "17.1.8", "description": "Entrepreneurship"},
-            {"indicator_no": "17.1.9", "description": "Environmentally sound technologies"},
+            {"indicator_no": "17.1.9",
+                "description": "Environmentally sound technologies"},
             {"indicator_no": "17.1.10", "description": "Foreign direct investments"},
             {"indicator_no": "17.1.11", "description": "Fostering innovation"},
             {"indicator_no": "17.1.12", "description": "Free trade"},
-            {"indicator_no": "17.1.13", "description": "Fundamental principles of official statistics"},
+            {"indicator_no": "17.1.13",
+                "description": "Fundamental principles of official statistics"},
             {"indicator_no": "17.1.14", "description": "Global partnership"},
-            {"indicator_no": "17.1.15", "description": "Global partnership for sustainable development"},
+            {"indicator_no": "17.1.15",
+                "description": "Global partnership for sustainable development"},
             {"indicator_no": "17.1.16", "description": "Global stability"},
             {"indicator_no": "17.1.17", "description": "International aid"},
             {"indicator_no": "17.1.18", "description": "International cooperation"},
-            {"indicator_no": "17.1.19", "description": "International population and housing census"},
+            {"indicator_no": "17.1.19",
+                "description": "International population and housing census"},
             {"indicator_no": "17.1.20", "description": "International support"},
-            {"indicator_no": "17.1.21", "description": "International support for developing countries"},
+            {"indicator_no": "17.1.21",
+                "description": "International support for developing countries"},
             {"indicator_no": "17.1.22", "description": "Knowledge sharing"},
             {"indicator_no": "17.1.23", "description": "Multi-stakeholder partnerships"},
             {"indicator_no": "17.1.24", "description": "Poverty eradication"},
             {"indicator_no": "17.1.25", "description": "Public-private partnerships"},
             {"indicator_no": "17.1.26", "description": "Science cooperation agreements"},
-            {"indicator_no": "17.1.27", "description": "Technology cooperation agreements"},
+            {"indicator_no": "17.1.27",
+                "description": "Technology cooperation agreements"},
             {"indicator_no": "17.1.28", "description": "Technology transfer"},
             {"indicator_no": "17.1.29", "description": "Weighted tariff average"},
             {"indicator_no": "17.1.30", "description": "Women entrepreneurs"},
@@ -917,29 +930,39 @@ def prepare_sdg_texts(sdg_data):
     meta = []
     for sdg in sdg_data:
         texts.append(f"SDG {sdg['sdg_no']} {sdg['title']} {sdg['content']}")
-        meta.append({"level": "goal", "sdg_no": sdg["sdg_no"], "title": sdg["title"]})
+        meta.append(
+            {"level": "goal", "sdg_no": sdg["sdg_no"], "title": sdg["title"]})
 
         for target in sdg.get("targets", []):
-            texts.append(f"SDG {sdg['sdg_no']} Target {target['target_no']} {target['description']}")
-            meta.append({"level": "target", "sdg_no": sdg["sdg_no"], "target_no": target["target_no"]})
+            texts.append(
+                f"SDG {sdg['sdg_no']} Target {target['target_no']} {target['description']}")
+            meta.append(
+                {"level": "target", "sdg_no": sdg["sdg_no"], "target_no": target["target_no"]})
 
         for indicator in sdg.get("indicators", []):
             print(indicator)
             print(indicator['description'])
-            texts.append(f"SDG {sdg['sdg_no']} Indicator {indicator['indicator_no']} {indicator['description']}")
-            meta.append({"level": "indicator", "sdg_no": sdg["sdg_no"], "indicator_no": indicator["indicator_no"]})
+            texts.append(
+                f"SDG {sdg['sdg_no']} Indicator {indicator['indicator_no']} {indicator['description']}")
+            meta.append(
+                {"level": "indicator", "sdg_no": sdg["sdg_no"], "indicator_no": indicator["indicator_no"]})
 
     return texts, meta
 
 # Load model
+
+
 @st.cache_resource
 def load_model():
     return SentenceTransformer('sentence-transformers/all-mpnet-base-v2')
 
 # Embed SDG data
+
+
 @st.cache_resource
-def compute_sdg_embeddings(texts, model):
-    return model.encode(texts, convert_to_numpy=True, normalize_embeddings=True)
+def compute_sdg_embeddings(texts, _model):
+    return _model.encode(texts, convert_to_numpy=True, normalize_embeddings=True)
+
 
 # Main app
 st.title("🌱 SDG Context Analysis Tool")
@@ -954,11 +977,12 @@ if query and st.button("Analyze"):
         model = load_model()
         texts, meta = prepare_sdg_texts(sdg_data)
         sdg_embeddings = compute_sdg_embeddings(texts, model)
-        query_emb = model.encode(query, convert_to_numpy=True, normalize_embeddings=True)
+        query_emb = model.encode(
+            query, convert_to_numpy=True, normalize_embeddings=True)
 
         similarities = np.dot(sdg_embeddings, query_emb)
         sorted_idx = np.argsort(similarities)[::-1]
-        
+
         results = []
         for idx in sorted_idx[:top_n]:
             if similarities[idx] < threshold:
@@ -978,11 +1002,12 @@ if query and st.button("Analyze"):
             st.markdown(f"Similarity: `{r['similarity']}`")
             st.markdown(f"Text: {r['text']}")
             st.markdown("---")
-        
+
         # Export options
         df = pd.DataFrame(results)
-        st.download_button("Download CSV", df.to_csv(index=False).encode('utf-8'), file_name="sdg_results.csv")
-        st.download_button("Download JSON", json.dumps(results, indent=2).encode('utf-8'), file_name="sdg_results.json")
+        st.download_button("Download CSV", df.to_csv(
+            index=False).encode('utf-8'), file_name="sdg_results.csv")
+        st.download_button("Download JSON", json.dumps(
+            results, indent=2).encode('utf-8'), file_name="sdg_results.json")
     else:
         st.warning("No matches above the threshold found.")
-
