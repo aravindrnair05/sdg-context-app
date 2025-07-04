@@ -970,7 +970,7 @@ st.write("Analyze your text against SDG goals, targets, and indicators.")
 
 query = st.text_area("Enter your text:", height=150)
 top_n = st.slider("Number of top matches", 1, 10, 3)
-threshold = st.slider("Minimum similarity threshold", 0.0, 1.0, 0.25, 0.01)
+threshold = st.slider("Minimum similarity threshold", 0.0, 1.0, 0.5, 0.01)
 
 if query and st.button("Analyze"):
     with st.spinner("Processing..."):
